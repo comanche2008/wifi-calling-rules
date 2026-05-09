@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,agkn.com
 DOMAIN-SUFFIX,tktn.at
 DOMAIN-SUFFIX,inner-active.mobi
+DOMAIN-SUFFIX,att.com
+DOMAIN-SUFFIX,att,net
 IP-CIDR,50.117.27.0/24,no-resolve
 IP-CIDR,69.46.75.0/24,no-resolve
 IP-CIDR,205.164.56.0/24,no-resolve
@@ -26,3 +28,6 @@ DOMAIN-SUFFIX,redirect.ultra.me
 DOMAIN-SUFFIX,ultramobile.com
 DOMAIN-SUFFIX,mvnoc.ai
 DOMAIN-SUFFIX,mzstatic.com
+
+# att
+IP-CIDR,107.64.0.0/10,no-resolve
